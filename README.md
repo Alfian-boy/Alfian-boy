@@ -21,10 +21,10 @@
 
 ```javascript
 const developer = {
-    name: "[Nama Kamu]",
+    name: "Alfian Yusuf",
     role: "Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    education: "[Universitas Kamu]",
+    education: "Universitas Muhammadiyah Semarang",
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm not ashamed 😄"
 };
@@ -34,7 +34,7 @@ const developer = {
 - 🌱 Learning **Cloud Architecture & DevOps**
 - 👯 Open to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, Python**
-- 📫 Reach me at **[email@kamu.com]**
+- 📫 Reach me at **[alfian.yus22.com]**
 - ⚡ Fun fact: **There are 10 types of people in the world — those who understand binary and those who don't**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
